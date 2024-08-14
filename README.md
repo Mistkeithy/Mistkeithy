@@ -1,5 +1,5 @@
 <header>
-  <img src="https://raw.githubusercontent.com/Mistkeithy/Mistkeithy/main/mistkeithy_github.png" alt="Mistkeithy"/>
+  <img src="https://raw.githubusercontent.com/Mistkeithy/Mistkeithy/main/mistkeithy_github1.png" alt="Mistkeithy"/>
 </header>
 <section>
 <table width="100%" border="1">
@@ -22,8 +22,8 @@
         <li>YouTube: <a href="https://youtube.com/@Mistkeithy">Mistkeithy</a></li>
       </ul>
     </td>
-    <td width="350px" align="right">
-      <img width="229px" height="296px" src="https://github.com/Mistkeithy/Mistkeithy/blob/main/ava1.jpg" alt="Author: Mistkeithy"/>
+    <td width="266px" align="right">
+      <img width="246px" height="296px" src="https://github.com/Mistkeithy/Mistkeithy/blob/main/ava1.jpg" alt="Author: Mistkeithy"/>
     </td>
   </tr>
 </table>
