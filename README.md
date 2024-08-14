@@ -8,13 +8,14 @@
       <p>
         <strong>Mistkeithy</strong>
       </p>
-      <p>I'm a Software Developer & Artist (p.t VTuber). I develop any applications for any platforms & maintain projects like <a href="https://github.com/Mistkeithy/Flipwiz">Flipwiz</a>, <a href="https://github.com/Mistkeithy/FristManager">FristManager</a>, <a href="https://purepe.onl.su">PurePE</a> and <a href="https://github.com/Mistkeithy/Windows_11_Tweaks">Windows_11_Tweaks</a>.</p>
+      <p>Maintainer of these projects: <a href="https://github.com/Mistkeithy/Flipwiz">Flipwiz</a>, <a href="https://purepe.net">PurePE</a> and <a href="https://github.com/Mistkeithy/Windows_11_Tweaks">Windows_11_Tweaks</a>.</p>
       <p>
       <strong>
       Contact me:
       </strong>
       </p>
       <ul>
+        <li>Website: <a href="https://mistkeithy.com">Mistkeithy</a></li>
         <li>GitHub: <a href="https://github.com/Mistkeithy">Mistkeithy</a></li>
         <li>Telegram: <a href="https://t.me/Mistkeithy">Mistkeithy</a></li>
         <li>X: <a href="https://twitter.com/Mistkeithy">Mistkeithy</a></li>
@@ -22,8 +23,7 @@
       </ul>
     </td>
     <td width="350px" align="right">
-      <img width="229px" height="296px" src="https://raw.githubusercontent.com/Mistkeithy/Mistkeithy/main/kael_2x.png" alt="Author: kael333_"/>
-      <a href="https://twitter.com/kael333_">kael333_</a>
+      <img width="229px" height="296px" src="https://github.com/Mistkeithy/Mistkeithy/blob/main/ava1.jpg" alt="Author: Mistkeithy"/>
     </td>
   </tr>
 </table>
