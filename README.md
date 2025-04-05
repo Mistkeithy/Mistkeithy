@@ -6,9 +6,12 @@
   <tr>
     <td width="500px" align="left" valign="top">
       <p>
-        <strong>Mistkeithy</strong>
+        <strong><h3>My name is Mistkeithy</h3></strong>
       </p>
-      <p>Creator, </p>
+      <p>
+        Author of the same named character <b>Mist Keithy</b>.<br/>
+      </p>
+      <p><cite><i>Linking the dots between dreams and reality.</i></cite></p>
       <p>
       <strong>
       Contact me:
