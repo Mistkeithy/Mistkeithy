@@ -8,18 +8,16 @@
       <p>
         <strong>Mistkeithy</strong>
       </p>
-      <p>Maintainer of these projects: <a href="https://github.com/Mistkeithy/Flipwiz">Flipwiz</a>, <a href="https://purepe.net">PurePE</a> and <a href="https://github.com/Mistkeithy/Windows_11_Tweaks">Windows_11_Tweaks</a>.</p>
+      <p>Creator, </p>
       <p>
       <strong>
       Contact me:
       </strong>
       </p>
       <ul>
-        <li>Website: <a href="https://mistkeithy.com">Mistkeithy</a></li>
-        <li>GitHub: <a href="https://github.com/Mistkeithy">Mistkeithy</a></li>
-        <li>Telegram: <a href="https://t.me/Mistkeithy">Mistkeithy</a></li>
-        <li>X: <a href="https://twitter.com/Mistkeithy">Mistkeithy</a></li>
-        <li>YouTube: <a href="https://youtube.com/@Mistkeithy">Mistkeithy</a></li>
+        <li><a href="https://mistkeithy.com">Visit my own website...<br/></a></li>
+        <li>X: <a href="https://x.com/Mistkeithy">@Mistkeithy</a></li>
+        <li>YT: <a href="https://youtube.com/@Mistkeithy">@Mistkeithy</a></li>
       </ul>
     </td>
     <td width="266px" align="right">
